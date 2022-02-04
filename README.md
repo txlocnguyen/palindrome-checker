@@ -1,4 +1,5 @@
-# palindrome-checker
+# <a href="https://txlocnguyen.github.io/palindrome-checker/">palindrome-checker</a>
+View it <a href="https://txlocnguyen.github.io/palindrome-checker/">here</a>.<br>
 Using JavaScript to build a function that return true if the given string is a palindrome. Otherwise, return false.
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
