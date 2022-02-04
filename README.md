@@ -5,7 +5,7 @@ A palindrome is a word or sentence that's spelled the same way both forward and 
 Some sample tests:
 ```
 
-"eye" should return **true**.
+"eye" should return true.
 
 "_eye" should return true.
 
