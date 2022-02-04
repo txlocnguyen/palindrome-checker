@@ -1,0 +1,25 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    margin: 35vh 0;
+    color: darkslategray;
+}
+h1{
+    font-weight: bold;
+}
+p{
+    margin: 15px auto;
+}
+#input{
+    margin-top: 15px;
+}
+#result{
+    font-weight: bolder;
+}
+#submit{
+    cursor: pointer;
+    background-color:bisque;
+}
+#submit:hover{
+    background-color: burlywood;
+}
