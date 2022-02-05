@@ -3,18 +3,22 @@ body{
     text-align: center;
     margin: 35vh 0;
     color: darkslategray;
+    font-size: 1.25rem;
+    background-color: #FFDEE9;
 }
 h1{
     font-weight: bold;
 }
 p{
     margin: 15px auto;
+    max-width: 75%;
 }
 #input{
     margin-top: 15px;
 }
 #result{
     font-weight: bolder;
+    overflow-wrap: break-word;
 }
 #submit{
     cursor: pointer;

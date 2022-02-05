@@ -26,7 +26,7 @@ function printAnswer(yourStr, answer) {
         result.innerText = `${yourStr} is a palindrome.`;
         result.style.color = "green";
     } else {
-        result.innerText = `Sorry, ${yourStr} is NOT a palindrome.`;
+        result.innerText = `Sorry. ${yourStr} is NOT a palindrome.`;
         result.style.color = "red";
     }
 }
