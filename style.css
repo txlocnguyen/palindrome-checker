@@ -4,7 +4,7 @@ body{
     margin: 35vh 0;
     color: darkslategray;
     font-size: 1.25rem;
-    background-color: #FFDEE9;
+    background-color: #E3F8F9
 }
 h1{
     font-weight: bold;
@@ -22,8 +22,8 @@ p{
 }
 #submit{
     cursor: pointer;
-    background-color:bisque;
+    background-color:#E1C6E7;
 }
 #submit:hover{
-    background-color: burlywood;
+    background-color: #C85DE0;
 }
